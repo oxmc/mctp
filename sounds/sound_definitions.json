@@ -1,0 +1,18 @@
+{
+  "voice.welcome": {
+    "sounds": [
+      "sounds/voice/welcome"
+    ]
+  },
+  {
+  "ddlc.forever": {
+    "sounds": [
+      "sounds/music/ddf"
+    ]
+  },
+  {
+  "ddlc.menu": {
+    "sounds": [
+      "sounds/music/ddlcm"
+    ]
+  }

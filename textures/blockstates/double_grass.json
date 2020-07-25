@@ -1,0 +1,12 @@
+﻿{
+"__comment":"Made by Mojo255, part of the '3D Plantlife™' resource pack || Official download page: http://www.planetminecraft.com/texture_pack/default-3d-2985741/ || © Mojo255. All rights reserved. ",
+    "variants": {
+        "half=lower": [
+            { "model": "double_grass_bottom", "weight": 40 },
+            { "model": "double_grass_bottom", "y": 90, "uvlock": false, "weight": 40 },
+            { "model": "double_grass_bottom", "y": 180, "uvlock": false, "weight": 40 },
+            { "model": "double_grass_bottom", "y": 270, "uvlock": false, "weight": 40 }
+        ],
+	"half=upper":    { "model": "double_grass_top" }
+    }
+}

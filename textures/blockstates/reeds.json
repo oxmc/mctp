@@ -1,0 +1,10 @@
+﻿{
+"__comment":"Made by Mojo255, part of the '3D Plantlife™' resource pack || Official download page: http://www.planetminecraft.com/texture_pack/default-3d-2985741/ || © Mojo255. All rights reserved. ",
+    "variants": {
+        "normal": [
+            { "model": "reeds", "uvlock": false, "weight": 40 },
+	    { "model": "reeds.1", "uvlock": false, "weight": 40 },
+	    { "model": "reeds.2", "uvlock": false, "weight": 40 }
+        ]
+    }
+}

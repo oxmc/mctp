@@ -1,0 +1,15 @@
+﻿{
+"__comment":"Made by Mojo255, part of the '3D Plantlife™' resource pack || Official download page: http://www.planetminecraft.com/texture_pack/default-3d-2985741/ || © Mojo255. All rights reserved. ",
+    "variants": {
+        "normal": [
+            { "model": "dandelion", "uvlock": false, "weight": 40 },
+            { "model": "dandelion", "uvlock": false, "y": 90, "weight": 40 },
+            { "model": "dandelion", "uvlock": false, "y": 180, "weight": 40 },
+            { "model": "dandelion", "uvlock": false, "y": 270, "weight": 40 },
+	    { "model": "dandelion.1", "uvlock": false, "weight": 40 },
+            { "model": "dandelion.1", "uvlock": false, "y": 90, "weight": 40 },
+            { "model": "dandelion.1", "uvlock": false, "y": 180, "weight": 40 },
+            { "model": "dandelion.1", "uvlock": false, "y": 270, "weight": 40 }
+        ]
+    }
+}

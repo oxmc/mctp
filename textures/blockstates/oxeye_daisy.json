@@ -1,0 +1,27 @@
+﻿{
+"__comment":"Made by Mojo255, part of the '3D Plantlife™' resource pack || Official download page: http://www.planetminecraft.com/texture_pack/default-3d-2985741/ || © Mojo255. All rights reserved. ",
+    "variants": {
+        "normal": [
+            { "model": "daisy", "uvlock": false, "weight": 40 },
+            { "model": "daisy", "uvlock": false, "y": 90, "weight": 40 },
+            { "model": "daisy", "uvlock": false, "y": 180, "weight": 40 },
+            { "model": "daisy", "uvlock": false, "y": 270, "weight": 40 },
+	    { "model": "daisy.1", "uvlock": false, "weight": 40 },
+            { "model": "daisy.1", "uvlock": false, "y": 90, "weight": 40 },
+            { "model": "daisy.1", "uvlock": false, "y": 180, "weight": 40 },
+            { "model": "daisy.1", "uvlock": false, "y": 270, "weight": 40 },
+	    { "model": "daisy.2", "uvlock": false, "weight": 40 },
+            { "model": "daisy.2", "uvlock": false, "y": 90, "weight": 40 },
+            { "model": "daisy.2", "uvlock": false, "y": 180, "weight": 40 },
+            { "model": "daisy.2", "uvlock": false, "y": 270, "weight": 40 },
+	    { "model": "daisy.3", "uvlock": false, "weight": 40 },
+            { "model": "daisy.3", "uvlock": false, "y": 90, "weight": 40 },
+            { "model": "daisy.3", "uvlock": false, "y": 180, "weight": 40 },
+            { "model": "daisy.3", "uvlock": false, "y": 270, "weight": 40 },
+	    { "model": "daisy.4", "uvlock": false, "weight": 40 },
+            { "model": "daisy.4", "uvlock": false, "y": 90, "weight": 40 },
+            { "model": "daisy.4", "uvlock": false, "y": 180, "weight": 40 },
+            { "model": "daisy.4", "uvlock": false, "y": 270, "weight": 40 }
+        ]
+    }
+}
